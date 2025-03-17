@@ -29,7 +29,9 @@ assets:
 # Color customization
 color_scheme: light  # Options: light, dark
 
-logo: "/Sharif_logo.png"
+logo: "/assets/Images/Sharif_logo.png"
+
+favicon_ico: "/assets/images/PML_favicon.ico"
 
 
 footer_content: "© 2025 My Documentation Site. All rights reserved."
