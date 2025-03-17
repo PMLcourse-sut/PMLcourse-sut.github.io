@@ -1,8 +1,35 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: PMLCourse-sut
+description: Princiles of Machine Learning, 2025 
 
-url: https://just-the-docs.github.io
+remote_theme: just-the-docs/just-the-docs
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+search_enabled: true
+
+nav_order: 1  # Controls sidebar order
+
+nav:
+  - title: Home
+    url: /
+    nav_order: 1
+  - title: Syllabus
+    url: /syllabus
+    nav_order: 2
+  - title: Resources
+    url: /resources
+    nav_order: 3
+
+
+
+# Custom CSS
+assets:
+  stylesheets:
+    - assets/css/custom.css
+
+
+# Color customization
+color_scheme: light  # Options: light, dark
+
+logo: "/Sharif_logo.png"
+
+
+footer_content: "© 2025 My Documentation Site. All rights reserved."
