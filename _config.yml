@@ -3,7 +3,7 @@ description: Princiles of Machine Learning, 2025
 
 remote_theme: just-the-docs/just-the-docs
 
-search_enabled: true
+search_enabled: false
 
 nav_order: 1  # Controls sidebar order
 
