@@ -31,7 +31,7 @@ color_scheme: light  # Options: light, dark
 
 logo: "/assets/Images/Sharif_logo.png"
 
-favicon_ico: "/assets/Images/PML_favicon.ico"
+favicon_ico: "/assets/Images/PML_favicon.png"
 
 
 footer_content: "© 2025 My Documentation Site. All rights reserved."
