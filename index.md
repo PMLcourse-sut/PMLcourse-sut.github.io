@@ -11,7 +11,6 @@ Principles of machine learning Principles of machine learning Principles of mach
  Overview Overview Overview Overview
 
 ### week 1
- - Feb 9:
-: **1**{: .label} Introduction
+ - Feb 9: **1**{: .label .label-yellow } Introduction
 
 
