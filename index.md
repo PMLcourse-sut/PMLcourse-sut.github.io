@@ -22,6 +22,6 @@ Feb 9: **1**{: .label .label-yellow } Introduction
 
 | Week 1        | session 1          | session 2 |
 |:-------------|:------------------|:------|
-| Slides           | [Link button](https://just-the-docs.com){: .btn .btn-outline } | [Link button](https://just-the-docs.com){: .btn .btn-outline }  |
-| Readings | [Link button](https://just-the-docs.com){: .btn .btn-outline }   | [Link button](https://just-the-docs.com){: .btn .btn-outline }  |
-| HomeWork           | [Link button](https://just-the-docs.com){: .btn .btn-outline }      | [Link button](https://just-the-docs.com){: .btn .btn-outline }   |
+| Slides           | [Link button](https://just-the-docs.com){: .btn .btn-purple } | [Link button](https://just-the-docs.com){: .btn .btn-red }  |
+| Readings | [Link button](https://just-the-docs.com){: .btn .btn-blue }   | [Link button](https://just-the-docs.com){: .btn .btn-outline }  |
+| HomeWork           | [Link button](https://just-the-docs.com){: .btn .btn-green }      | [Link button](https://just-the-docs.com){: .btn .btn-outline }   |
