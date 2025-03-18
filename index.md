@@ -11,17 +11,13 @@ Principles of machine learning Principles of machine learning Principles of mach
  Overview Overview Overview Overview
 
 ### week 1
-Feb 9: 1
-{: .label .label-yellow } Introduction
-Slides:
-{: .label .label-blue } 
-[Link](https://just-the-docs.com){: .btn .btn-outline }
-Readings:
-{: .label .label-blue } 
-[Link](https://just-the-docs.com){: .btn .btn-outline }
-HomeWorks:
-{: .label .label-blue } 
-[Link](https://just-the-docs.com){: .btn .btn-outline }
+Jan 7
+: **1**{: .label} Introduction
+  : [Slides](assets/slides/jan7.pdf)
+: **Survey**{: .label .label-survey} [Beginning of Quarter Survey](https://forms.gle/4fuE1HUFbd13NKbp7) **(Due: End of Week 2 - 1/19)**
+: **Readings**{: .label .label-reading} **(Due 1/14)**
+  * **Required**: [1.1 - MLSys : Intro](https://mlsysbook.ai/contents/core/introduction/introduction.html), [1.2 - DNN](https://mlsysbook.ai/contents/core/dnn_architectures/dnn_architectures.html#sec-deep-learning-primer-resource)
+  * **Optional**: [1.3 - Petuum](https://arxiv.org/abs/1312.7651), [1.4 - Systems Challenges for AI](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-159.pdf)
    
 
 Feb 9: **1**{: .label .label-yellow } Introduction
