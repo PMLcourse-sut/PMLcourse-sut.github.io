@@ -11,16 +11,21 @@ Principles of machine learning Principles of machine learning Principles of mach
  Overview Overview Overview Overview
 
 ### week 1
-Jan 7
+Feb 9
 : **1**{: .label} Introduction
   : [Slides](assets/slides/jan7.pdf)
-: **Survey**{: .label .label-survey} [Beginning of Quarter Survey](https://forms.gle/4fuE1HUFbd13NKbp7) **(Due: End of Week 2 - 1/19)**
-: **Readings**{: .label .label-reading} **(Due 1/14)**
-  * **Required**: [1.1 - MLSys : Intro](https://mlsysbook.ai/contents/core/introduction/introduction.html), [1.2 - DNN](https://mlsysbook.ai/contents/core/dnn_architectures/dnn_architectures.html#sec-deep-learning-primer-resource)
-  * **Optional**: [1.3 - Petuum](https://arxiv.org/abs/1312.7651), [1.4 - Systems Challenges for AI](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-159.pdf)
-   
+: **Topic 1**{: .label .label-survey} [Name](https://just-the-docs.com) **(Note!)**
+: **Readings**{: .label .label-reading} **(Note!)**
+  * **topic**: [Link-11](https://just-the-docs.com), [Link-12](https://just-the-docs.com)
+  * **topic**: [Link-21](https://just-the-docs.com), [Link-22](https://just-the-docs.com)
+Feb 11
+: **1**{: .label} Introduction
+  : [Slides](assets/slides/jan7.pdf)
+: **Topic 1**{: .label .label-survey} [Name](https://just-the-docs.com) **(Note!)**
+: **Readings**{: .label .label-reading} **(Note!)**
+  * **topic**: [Link-11](https://just-the-docs.com), [Link-12](https://just-the-docs.com)
+  * **topic**: [Link-21](https://just-the-docs.com), [Link-22](https://just-the-docs.com) 
 
-Feb 9: **1**{: .label .label-yellow } Introduction
 
 
 | Week 1        | session 1          | session 2 |
