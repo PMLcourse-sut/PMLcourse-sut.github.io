@@ -18,11 +18,13 @@ Feb 9
 : **Readings**{: .label .label-reading} **(Note!)**
   * **topic**: [Link-11](https://just-the-docs.com), [Link-12](https://just-the-docs.com)
   * **topic**: [Link-21](https://just-the-docs.com), [Link-22](https://just-the-docs.com)
-Feb 11
-: **1**{: .label} Introduction
+
+
+ - Feb 11
+: **1**{: .label} Topic of the session
   : [Slides](assets/slides/jan7.pdf)
-: **Topic 1**{: .label .label-survey} [Name](https://just-the-docs.com) **(Note!)**
-: **Readings**{: .label .label-reading} **(Note!)**
+: **Topic 1**{: .label .label-red} [Name](https://just-the-docs.com) **(Note!)**
+: **Readings**{: .label .label-yellow} **(Note!)**
   * **topic**: [Link-11](https://just-the-docs.com), [Link-12](https://just-the-docs.com)
   * **topic**: [Link-21](https://just-the-docs.com), [Link-22](https://just-the-docs.com) 
 
