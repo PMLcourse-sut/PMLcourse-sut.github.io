@@ -27,6 +27,22 @@ Feb 11
   * **topic**: [Link-11](https://just-the-docs.com), [Link-12](https://just-the-docs.com)
   * **topic**: [Link-21](https://just-the-docs.com), [Link-22](https://just-the-docs.com)
 
+## 📅 Course Schedule
+
+### Week 1
+
+| Date     | Session Info                         | Reading              |
+|----------|--------------------------------------|----------------------|
+| **Feb 9**  | **Session 1:** Introduction <br> <span style="color:green;"><strong>Lab W1</strong></span>: Python 101 | <span style="background-color:cyan;">📘 <strong>READING</strong></span> <br> K. Murphy Ch.1 |
+| **Feb 11** | **Session 2:** Linear Algebra       | <span style="background-color:cyan;">📘 <strong>READING</strong></span> <br> K. Murphy Ch.1 |
+
+### Week 2
+
+| Date     | Session Info                                                                                       | Reading / Homework                         |
+|----------|----------------------------------------------------------------------------------------------------|--------------------------------------------|
+| **Feb 16** | **Session 3:** Linear Algebra Contd. <br> <span style="color:green;"><strong>Lab W2</strong></span>: Linear Algebra <br> <span style="color:purple;"><strong>PaperPres</strong></span>: Perceptron <br> <span style="color:orange;"><strong>CaseStudy</strong></span>: Robot Path Planning | <span style="background-color:cyan;">📘 <strong>READING</strong></span><br>K. Murphy Ch.1<br><span style="background-color:gold;"><strong>HOMEWORK</strong></span>: HW#1 - Solutions <br><span style="background-color:red; color:white;"><strong>WORKSHEET</strong></span>: Solved Examples |
+| **Feb 18** | **Session 4:** Linear Algebra Contd.                                                              | <span style="background-color:cyan;">📘 <strong>READING</strong></span> <br> K. Murphy Ch.1 |
+
 
 
 
