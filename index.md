@@ -15,24 +15,6 @@ Principles of machine learning Principles of machine learning Principles of mach
 
 ### Week 1
 
-| Date     | Session Info                         | Reading              |
-|----------|--------------------------------------|----------------------|
-| **Feb 9**  | **Session 1:** Introduction <br> <span style="color:green;"><strong>Lab W1</strong></span>: Python 101 | <span style="background-color:cyan;">📘 <strong>READING</strong></span> <br> K. Murphy Ch.1 |
-| **Feb 11** | **Session 2:** Linear Algebra       | <span style="background-color:cyan;">📘 <strong>READING</strong></span> <br> K. Murphy Ch.1 |
-
-### Week 2
-
-| Date     | Session Info                                                                                       | Reading / Homework                         |
-|----------|----------------------------------------------------------------------------------------------------|--------------------------------------------|
-| **Feb 16** | **Session 3:** Linear Algebra Contd. <br> <span style="color:green;"><strong>Lab W2</strong></span>: Linear Algebra <br> <span style="color:purple;"><strong>PaperPres</strong></span>: Perceptron <br> <span style="color:orange;"><strong>CaseStudy</strong></span>: Robot Path Planning | <span style="background-color:cyan;">📘 <strong>READING</strong></span><br>K. Murphy Ch.1<br><span style="background-color:gold;"><strong>HOMEWORK</strong></span>: HW#1 - Solutions <br><span style="background-color:red; color:white;"><strong>WORKSHEET</strong></span>: Solved Examples |
-| **Feb 18** | **Session 4:** Linear Algebra Contd.                                                              | <span style="background-color:cyan;">📘 <strong>READING</strong></span> <br> K. Murphy Ch.1 |
-
-
-
-## 📅 Course Schedule
-
-### Week 1
-
 <table>
   <tr>
     <th>Date</th>
@@ -186,9 +168,9 @@ Principles of machine learning Principles of machine learning Principles of mach
     <td style="text-align:center;"><strong>Feb 16</strong></td>
     <td>
       <strong>Session 3:</strong> Linear Algebra Contd. <br>
-      <span style="color:green;"><strong>Lab W2</strong></span>: Linear Algebra <br>
-      <span style="color:purple;"><strong>PaperPres</strong></span>: Perceptron <br>
-      <span style="color:orange;"><strong>CaseStudy</strong></span>: Robot Path Planning
+      <span class="badge" style="background-color:gold; color:black;">Lib W2</span> Linear Algebra <br>
+      <span class="badge" style="background-color:gold; color:black;">PaperPres</span> Perceptron <br>
+      <span class="badge" style="background-color:gold; color:black;">CaseStudy</span> Robot Path Planning
     </td>
     <td>
       <span class="badge">READING</span><br>
