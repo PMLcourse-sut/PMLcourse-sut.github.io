@@ -203,3 +203,70 @@ Principles of machine learning Principles of machine learning Principles of mach
     <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
   </tr>
 </table>
+
+## 📅 Course Schedule
+
+<style>
+.badge {
+  display: inline-block;
+  background-color: #0d6efd; /* Bootstrap primary blue */
+  color: white;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 85%;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+</style>
+
+### Week 1
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Feb 9</strong></td>
+    <td><strong>Session 1:</strong> Introduction <br> <span class="badge">Lab W1</span> Python 101</td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Feb 11</strong></td>
+    <td><strong>Session 2:</strong> Linear Algebra</td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </tr>
+</table>
+
+---
+
+### Week 2
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading / Homework</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Feb 16</strong></td>
+    <td>
+      <strong>Session 3:</strong> Linear Algebra Contd. <br>
+      <span style="color:green;"><strong>Lab W2</strong></span>: Linear Algebra <br>
+      <span style="color:purple;"><strong>PaperPres</strong></span>: Perceptron <br>
+      <span style="color:orange;"><strong>CaseStudy</strong></span>: Robot Path Planning
+    </td>
+    <td>
+      <span class="badge">READING</span><br>
+      K. Murphy Ch.1 <br>
+      <span class="badge" style="background-color:gold; color:black;">HOMEWORK</span> HW#1 - Solutions <br>
+      <span class="badge" style="background-color:#dc3545;">WORKSHEET</span> Solved Examples
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Feb 18</strong></td>
+    <td><strong>Session 4:</strong> Linear Algebra Contd.</td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </tr>
+</table>
