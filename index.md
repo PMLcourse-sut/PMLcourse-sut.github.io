@@ -126,8 +126,8 @@ Principles of machine learning Principles of machine learning Principles of mach
     <td>
       <span style="display:inline-block; background:#17a2b8; color:white; padding:2px 6px; border-radius:5px; font-size:90%;">READING</span><br>
       K. Murphy Ch.1 <br>
-      <span style="display:inline-block; background:#ffc107; color:black; padding:2px 6px; border-radius:5px; font-size:90%;">HOMEWORK</span>: HW#1 - Solutions <br>
-      <span style="display:inline-block; background:#dc3545; color:white; padding:2px 6px; border-radius:5px; font-size:90%;">WORKSHEET</span>: Solved Examples
+      <span style="display:inline-block; background:#ffc107; color:black; padding:2px 6px; border-radius:5px; font-size:90%;">HOMEWORK</span> HW#1 - Solutions <br>
+      <span style="display:inline-block; background:#dc3545; color:white; padding:2px 6px; border-radius:5px; font-size:90%;">WORKSHEET</span> Solved Examples
     </td>
   </tr>
   <tr>
@@ -193,8 +193,8 @@ Principles of machine learning Principles of machine learning Principles of mach
     <td>
       <span class="badge">READING</span><br>
       K. Murphy Ch.1 <br>
-      <span class="badge" style="background-color:gold; color:black;">HOMEWORK</span>: HW#1 - Solutions <br>
-      <span class="badge" style="background-color:#dc3545;">WORKSHEET</span>: Solved Examples
+      <span class="badge" style="background-color:gold; color:black;">HOMEWORK</span> HW#1 - Solutions <br>
+      <span class="badge" style="background-color:#dc3545;">WORKSHEET</span> Solved Examples
     </td>
   </tr>
   <tr>
