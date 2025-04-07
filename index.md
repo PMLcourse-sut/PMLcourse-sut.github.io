@@ -235,51 +235,39 @@ Principles of machine learning Principles of machine learning Principles of mach
 ## 📅 Course Schedule
 
 ### Week 1
+
 <table>
   <tr>
     <th>Date</th>
     <th>Session Info</th>
-    <th>Reading / Homework</th>
+    <th>Reading</th>
   </tr>
-
   <tr>
     <td style="text-align:center;"><strong>Feb 9</strong></td>
     <td>
       <strong>Session 1:</strong> Introduction to Machine Learning <br>
-      - What is machine learning? <br>
-      - ML in aerospace industry <br>
-      <span class="badge badge-lab">Lab W1</span>: Python Basics & NumPy
+      <span style="color:green;"><strong>Lab W1</strong></span>: Python 101 – NumPy, Pandas Basics
     </td>
     <td>
-      <span class="badge badge-reading">READING</span>: ISLR Ch.1 <br>
-      <span class="badge badge-homework">HOMEWORK</span>: Intro Quiz (due Feb 16) <br>
-      <span class="badge badge-worksheet">WORKSHEET</span>: ML Examples
+      <span style="display:inline-block; background:#17a2b8; color:white; padding:2px 6px; border-radius:5px; font-size:90%;">
+        READING
+      </span><br>
+      K. Murphy, Chapter 1
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Feb 11</strong></td>
+    <td>
+      <strong>Session 2:</strong> Introduction to Linear Algebra <br>
+      Basics of Vectors and Matrices
+    </td>
+    <td>
+      <span style="display:inline-block; background:#17a2b8; color:white; padding:2px 6px; border-radius:5px; font-size:90%;">
+        READING
+      </span><br>
+      K. Murphy, Chapter 2
     </td>
   </tr>
 </table>
 
-### Week 2
-
-<table>
-  <tr>
-    <th>Date</th>
-    <th>Session Info</th>
-    <th>Reading / Homework</th>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong>Feb 16</strong></td>
-    <td>
-      <strong>Session 3:</strong> Linear Algebra Contd. <br>
-      <span class="badge badge-lab">Lab W2</span>: Linear Algebra <br>
-      <span class="badge badge-paper">PaperPres</span>: Perceptron <br>
-      <span class="badge badge-case">CaseStudy</span>: Robot Path Planning
-    </td>
-    <td>
-      <span class="badge badge-reading">READING</span><br>
-      K. Murphy Ch.1 <br>
-      <span class="badge" style="background-color:gold; color:black;">HOMEWORK</span>: HW#1 – Solutions <br>
-      <span class="badge" style="background-color:#dc3545;">WORKSHEET</span>: Solved Examples
-    </td>
-  </tr>
-</table>
 
