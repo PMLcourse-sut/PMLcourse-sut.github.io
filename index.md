@@ -204,70 +204,7 @@ Principles of machine learning Principles of machine learning Principles of mach
   </tr>
 </table>
 
-<style>
-.badge {
-  display: inline-block;
-  padding: 4px 10px;
-  border-radius: 20px;
-  font-size: 85%;
-  font-weight: bold;
-  font-family: sans-serif;
-  color: white;
-}
 
-.badge-reading {
-  background-color: #0d6efd; /* blue */
-}
 
-.badge-lab {
-  background-color: #198754; /* green */
-}
-
-.badge-paper {
-  background-color: #6f42c1; /* purple */
-}
-
-.badge-case {
-  background-color: #fd7e14; /* orange */
-}
-</style>
-
-## 📅 Course Schedule
-
-### Week 1
-
-<table>
-  <tr>
-    <th>Date</th>
-    <th>Session Info</th>
-    <th>Reading</th>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong>Feb 9</strong></td>
-    <td>
-      <strong>Session 1:</strong> Introduction to Machine Learning <br>
-      <span style="color:green;"><strong>Lab W1</strong></span>: Python 101 – NumPy, Pandas Basics
-    </td>
-    <td>
-      <span style="display:inline-block; background:#17a2b8; color:white; padding:2px 6px; border-radius:5px; font-size:90%;">
-        READING
-      </span><br>
-      K. Murphy, Chapter 1
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center;"><strong>Feb 11</strong></td>
-    <td>
-      <strong>Session 2:</strong> Introduction to Linear Algebra <br>
-      Basics of Vectors and Matrices
-    </td>
-    <td>
-      <span style="display:inline-block; background:#17a2b8; color:white; padding:2px 6px; border-radius:5px; font-size:90%;">
-        READING
-      </span><br>
-      K. Murphy, Chapter 2
-    </td>
-  </tr>
-</table>
 
 
