@@ -144,7 +144,7 @@ Principles of machine learning Principles of machine learning Principles of mach
   </tr>
   <tr>
     <td style="text-align:center;"><strong>Feb 9</strong></td>
-    <td><strong>Session 1:</strong> Introduction <br> <span style="color:green;"><strong>Lab W1</strong></span>: Python 101</td>
+    <td><strong>Session 1:</strong> Introduction <br> <span class="badge" style="background-color:#c88b80; color:black;">Lib W1</span> Python 101</td>
     <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
   </tr>
   <tr>
@@ -169,8 +169,8 @@ Principles of machine learning Principles of machine learning Principles of mach
     <td>
       <strong>Session 3:</strong> Linear Algebra Contd. <br>
       <span class="badge" style="background-color:#c88b80; color:black;">Lib W2</span> Linear Algebra <br>
-      <span class="badge" style="background-color:gold; color:black;">PaperPres</span> Perceptron <br>
-      <span class="badge" style="background-color:gold; color:black;">CaseStudy</span> Robot Path Planning
+      <span class="badge" style="background-color:#52dbbd; color:black;">PaperPres</span> Perceptron <br>
+      <span class="badge" style="background-color:#cef2ac; color:black;">CaseStudy</span> Robot Path Planning
     </td>
     <td>
       <span class="badge">READING</span><br>
