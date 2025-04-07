@@ -234,8 +234,30 @@ Principles of machine learning Principles of machine learning Principles of mach
 
 ## 📅 Course Schedule
 
-### Week 2 Example Table
+### Week 1
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading / Homework</th>
+  </tr>
 
+  <tr>
+    <td style="text-align:center;"><strong>Feb 9</strong></td>
+    <td>
+      <strong>Session 1:</strong> Introduction to Machine Learning <br>
+      - What is machine learning? <br>
+      - ML in aerospace industry <br>
+      <span class="badge badge-lab">Lab W1</span>: Python Basics & NumPy
+    </td>
+    <td>
+      <span class="badge badge-reading">READING</span>: ISLR Ch.1 <br>
+      <span class="badge badge-homework">HOMEWORK</span>: Intro Quiz (due Feb 16) <br>
+      <span class="badge badge-worksheet">WORKSHEET</span>: ML Examples
+    </td>
+  </tr>
+</table>
+### Week 1
 <table>
   <tr>
     <th>Date</th>
