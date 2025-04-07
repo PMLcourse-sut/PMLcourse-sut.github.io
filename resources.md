@@ -24,7 +24,6 @@ Media.
 
 2. **I. Goodfellow, Y. Bengio, A. Courville** (2016)  
    *Deep Learning*. MIT Press.  
-   [🔗 deeplearningbook.org](https://www.deeplearningbook.org/)
 
 3. **K.P. Murphy** (2022)  
    *Probabilistic Machine Learning: An Introduction*. MIT Press.
@@ -43,7 +42,3 @@ Media.
 ## 🌐 Online Resources
 
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-- [Deep Learning Book (Goodfellow)](https://www.deeplearningbook.org/)
-- [Statistical Learning (ISLR Online)](https://www.statlearning.com/)
-- [Machine Learning Mastery](https://machinelearningmastery.com/)
-- [Fast.ai - Practical Deep Learning Course](https://course.fast.ai/)
