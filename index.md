@@ -257,7 +257,9 @@ Principles of machine learning Principles of machine learning Principles of mach
     </td>
   </tr>
 </table>
-### Week 1
+
+### Week 2
+
 <table>
   <tr>
     <th>Date</th>
