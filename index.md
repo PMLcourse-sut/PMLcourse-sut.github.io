@@ -167,7 +167,7 @@ Principles of machine learning Principles of machine learning Principles of mach
   <tr>
     <td style="text-align:center;"><strong>Feb 16</strong></td>
     <td>
-      <strong>Session 3:</strong> Linear Algebra Contd. <br>
+      <span class="badge" style="background-color:#88ab98; color:black;"><strong>Session 3:</strong></span> Linear Algebra Contd. <br>
       <span class="badge" style="background-color:#c88b80; color:black;">Lib W2</span> Linear Algebra <br>
       <span class="badge" style="background-color:#52dbbd; color:black;">PaperPres</span> Perceptron <br>
       <span class="badge" style="background-color:#cef2ac; color:black;">CaseStudy</span> Robot Path Planning
