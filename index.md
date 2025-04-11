@@ -4,7 +4,16 @@ nav_order: 1
 layout: home
 ---
 
-# Principles of Machine Learning
+---
+title: Home
+nav_order: 1
+layout: home
+---
+
+<h1 style="font-size: 2.5em; font-weight: bold; margin-top: 0;">
+  Principles of Machine Learning
+</h1>
+
 This course provides a comprehensive introduction to the principles and applications of machine learning. Designed for both undergraduate and graduate students from diverse academic backgrounds, the course balances theoretical foundations with practical implementations.
 
 ## Overview
@@ -12,6 +21,7 @@ Students will learn:
 - **Fundamental machine learning algorithms** and their mathematical underpinnings.
 - How to **apply machine learning** to real-world problems.
 - Practical programming exercises using **Python** and popular ML libraries.
+
 
 
 ## 📅 Course Schedule
