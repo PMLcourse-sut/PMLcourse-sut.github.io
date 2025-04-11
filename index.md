@@ -65,7 +65,9 @@ Principles of machine learning Principles of machine learning Principles of mach
     <td>
       <span class="badge" style="background-color:#E5E4E2; color:black;">Session 3</span> Linear Algebra Contd. <br>
       <span class="badge" style="background-color:#478778; color:white;">Lab W2</span> Linear Algebra <br>
-      <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> Perceptron <br>
+      <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> <a href="PP&CS/Perceptron.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    Perceptron
+  </a> <br>
       <span class="badge" style="background-color:#cef2ac; color:black;">CaseStudy</span> Robot Path Planning
     </td>
 <td>
@@ -75,14 +77,16 @@ Principles of machine learning Principles of machine learning Principles of mach
   <span class="badge" style="background-color:gold; color:black;">
     HOMEWORK
   </span>
-    <a href="HW/HW1.rar" style="color:inherit; text-decoration:none;" target="_blank">HW#1</a>
-  &mdash;
-  <a href="HW/Machine_learning_HW1_solutions.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    <a href="HW/HW1.rar" style="color:#007bff; text-decoration:none;" target="_blank">HW#1</a>
+  &dash;
+  <a href="HW/Machine_Learning_HW1_solutions.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
     Solutions
   </a><br>
 
   <span class="badge" style="background-color:#dc3545;">WORKSHEET</span>
-  Solved Examples
+  <a href="SP/Machine_Learning_SP1.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    Solved Example
+  </a>
 </td>
 
   </tr>
