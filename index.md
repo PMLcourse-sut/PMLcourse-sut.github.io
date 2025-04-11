@@ -4,11 +4,14 @@ nav_order: 1
 layout: home
 ---
 
-# Principles of machine learning
-Principles of machine learning Principles of machine learning Principles of machine learningPrinciples of machine learning
+# Principles of Machine Learning
+This course provides a comprehensive introduction to the principles and applications of machine learning. Designed for both undergraduate and graduate students from diverse academic backgrounds, the course balances theoretical foundations with practical implementations.
 
 ## Overview
- Overview Overview Overview Overview
+Students will learn:
+- **Fundamental machine learning algorithms** and their mathematical underpinnings.
+- How to **apply machine learning** to real-world problems.
+- Practical programming exercises using **Python** and popular ML libraries.
 
 
 ## 📅 Course Schedule
@@ -97,7 +100,112 @@ Principles of machine learning Principles of machine learning Principles of mach
   </tr>
 </table>
 
+### Week 3
 
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Feb 23</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 5</span> Introduction <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Feb 25</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 6</span> Linear Algebra</td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </tr>
+</table>
 
+---
 
+### Week 4
 
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Mar 2</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 7</span> Introduction <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Mar 4</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 8</span> Linear Algebra</td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </tr>
+</table>
+
+---
+
+### Week 5
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Mar 9</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 9</span> Introduction <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Mar 11</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 10</span> Linear Algebra</td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </tr>
+</table>
+
+---
+
+### Week 6
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Mar 16</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 11</span> Introduction <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Mar 18</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 12</span> Linear Algebra</td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </tr>
+</table>
+
+---
+
+### Week 7
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Apr 6</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 13</span> Introduction <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Apr 8</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 14</span> Linear Algebra</td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </tr>
+</table>
+
+---
