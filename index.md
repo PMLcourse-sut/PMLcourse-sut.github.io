@@ -172,12 +172,26 @@ Principles of machine learning Principles of machine learning Principles of mach
       <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> Perceptron <br>
       <span class="badge" style="background-color:#cef2ac; color:black;">CaseStudy</span> Robot Path Planning
     </td>
-    <td>
-      <span class="badge">READING</span><br>
-      K. Murphy Ch.1 <br>
-      <span class="badge" style="background-color:gold; color:black;">HOMEWORK</span> HW#1 - Solutions <br>
-      <span class="badge" style="background-color:#dc3545;">WORKSHEET</span> Solved Examples
-    </td>
+<td>
+  <span class="badge">READING</span><br>
+  K. Murphy Ch.1 <br>
+
+  <span class="badge" style="background-color:gold; color:black;">
+    HOMEWORK
+  </span><br>
+
+  <span class="badge" style="background-color:#f0ad4e; color:black;">
+    <a href="HW/HW1.pdf" style="color:inherit; text-decoration:none;" target="_blank">HW#1</a>
+  </span>
+  &mdash;
+  <a href="HW/HW1_solutions.pdf" style="color:inherit; text-decoration:none;" target="_blank">
+    Solutions
+  </a><br>
+
+  <span class="badge" style="background-color:#dc3545;">WORKSHEET</span>
+  Solved Examples
+</td>
+
   </tr>
   <tr>
     <td style="text-align:center;"><strong>Feb 18</strong></td>
