@@ -144,12 +144,12 @@ Principles of machine learning Principles of machine learning Principles of mach
   </tr>
   <tr>
     <td style="text-align:center;"><strong>Feb 9</strong></td>
-    <td><span class="badge" style="background-color:#88ab98; color:black;">Session 1</span> Introduction <br> <span class="badge" style="background-color:#c88b80; color:black;">Lib W1</span> Python 101</td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 1</span> Introduction <br> <span class="badge" style="background-color:#c88b80; color:black;">Lab W1</span> Python 101</td>
     <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
   </tr>
   <tr>
     <td style="text-align:center;"><strong>Feb 11</strong></td>
-    <td><span class="badge" style="background-color:#88ab98; color:black;">Session 2</span> Linear Algebra</td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 2</span> Linear Algebra</td>
     <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
   </tr>
 </table>
@@ -167,8 +167,8 @@ Principles of machine learning Principles of machine learning Principles of mach
   <tr>
     <td style="text-align:center;"><strong>Feb 16</strong></td>
     <td>
-      <span class="badge" style="background-color:#88ab98; color:black;">Session 3</span> Linear Algebra Contd. <br>
-      <span class="badge" style="background-color:#c88b80; color:black;">Lib W2</span> Linear Algebra <br>
+      <span class="badge" style="background-color:#E5E4E2; color:black;">Session 3</span> Linear Algebra Contd. <br>
+      <span class="badge" style="background-color:#c88b80; color:black;">Lab W2</span> Linear Algebra <br>
       <span class="badge" style="background-color:#52dbbd; color:black;">PaperPres</span> Perceptron <br>
       <span class="badge" style="background-color:#cef2ac; color:black;">CaseStudy</span> Robot Path Planning
     </td>
@@ -181,7 +181,7 @@ Principles of machine learning Principles of machine learning Principles of mach
   </tr>
   <tr>
     <td style="text-align:center;"><strong>Feb 18</strong></td>
-    <td><span class="badge" style="background-color:#88ab98; color:black;">Session 4</span> Linear Algebra Contd.</td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 4</span> Linear Algebra Contd.</td>
     <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
   </tr>
 </table>
