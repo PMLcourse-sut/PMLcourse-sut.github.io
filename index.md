@@ -70,11 +70,10 @@ Principles of machine learning Principles of machine learning Principles of mach
 
   <span class="badge" style="background-color:gold; color:black;">
     HOMEWORK
-  </span><br>
+  </span>
     <a href="HW/HW1.rar" style="color:inherit; text-decoration:none;" target="_blank">HW#1</a>
-  
   &mdash;
-  <a href="HW/HW1_solutions.pdf" style="color:inherit; text-decoration:none;" target="_blank">
+  <a href="HW/Machine_learning_HW1_solutions.pdf" style="color:inherit; text-decoration:none;" target="_blank">
     Solutions
   </a><br>
 
