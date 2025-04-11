@@ -24,6 +24,10 @@ Principles of machine learning Principles of machine learning Principles of mach
   /*font-weight: bold;*/
   font-family: sans-serif;
 }
+ .schedule-table a {
+  color: #007bff;
+  text-decoration: none;
+}
 </style>
 
 ### Week 1
@@ -73,7 +77,7 @@ Principles of machine learning Principles of machine learning Principles of mach
   </span>
     <a href="HW/HW1.rar" style="color:inherit; text-decoration:none;" target="_blank">HW#1</a>
   &mdash;
-  <a href="HW/Machine_learning_HW1_solutions.pdf" style="color:inherit; text-decoration:none;" target="_blank">
+  <a href="HW/Machine_learning_HW1_solutions.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
     Solutions
   </a><br>
 
