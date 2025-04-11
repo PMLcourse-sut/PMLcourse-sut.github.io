@@ -110,12 +110,16 @@ Students will learn:
   </tr>
   <tr>
     <td style="text-align:center;"><strong>Feb 23</strong></td>
-    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 5</span> Introduction <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 5</span> <a href="slides/Machine_Learning_Week3_1.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    Linear Algebra Contd.(2)
+  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
     <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
   </tr>
   <tr>
     <td style="text-align:center;"><strong>Feb 25</strong></td>
-    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 6</span> Linear Algebra</td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 6</span> <a href="slides/Machine_Learning_Week3_2.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    Eigenvalues & Eigenvectors
+  </a></td>
     <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
   </tr>
 </table>
