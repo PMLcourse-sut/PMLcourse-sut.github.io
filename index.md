@@ -144,7 +144,7 @@ Principles of machine learning Principles of machine learning Principles of mach
   </tr>
   <tr>
     <td style="text-align:center;"><strong>Feb 9</strong></td>
-    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 1</span> Introduction <br> <span class="badge" style="background-color:#2AAA8A; color:white;">Lab W1</span> Python 101</td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 1</span> Introduction <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
     <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
   </tr>
   <tr>
@@ -168,8 +168,8 @@ Principles of machine learning Principles of machine learning Principles of mach
     <td style="text-align:center;"><strong>Feb 16</strong></td>
     <td>
       <span class="badge" style="background-color:#E5E4E2; color:black;">Session 3</span> Linear Algebra Contd. <br>
-      <span class="badge" style="background-color:#2AAA8A; color:white;">Lab W2</span> Linear Algebra <br>
-      <span class="badge" style="background-color:#52dbbd; color:black;">PaperPres</span> Perceptron <br>
+      <span class="badge" style="background-color:#478778; color:white;">Lab W2</span> Linear Algebra <br>
+      <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> Perceptron <br>
       <span class="badge" style="background-color:#cef2ac; color:black;">CaseStudy</span> Robot Path Planning
     </td>
     <td>
