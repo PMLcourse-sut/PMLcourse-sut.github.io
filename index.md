@@ -4,11 +4,6 @@ nav_order: 1
 layout: home
 ---
 
----
-title: Home
-nav_order: 1
-layout: home
----
 
 <h1 style="font-size: 2.5em; font-weight: bold; margin-top: 0;">
   Principles of Machine Learning
