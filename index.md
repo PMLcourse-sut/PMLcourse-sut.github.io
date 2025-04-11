@@ -126,7 +126,7 @@ Principles of machine learning Principles of machine learning Principles of mach
   display: inline-block;
   background-color: #0d6efd; /* Bootstrap primary blue */
   color: white;
-  padding: 2px 6px;
+  padding: 2px 5px;
   border-radius: 10px;
   font-size: 90%;
   /*font-weight: bold;*/
