@@ -120,7 +120,7 @@ Students will learn:
     <td style="text-align:center;"><strong>Feb 23</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 5</span> <a href="slides/Machine_Learning_week3_1.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
     Linear Algebra Contd.(2)
-  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
+  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W3</span> Python 101</td>
     <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
   </tr>
   <tr>
@@ -146,7 +146,7 @@ Students will learn:
     <td style="text-align:center;"><strong>Mar 2</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 7</span> <a href="slides/Machine_Learning_Week4_1.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
    Probability and Distributions
-  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
+  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W4</span> Python 101</td>
     <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
   </tr>
   <tr>
@@ -172,7 +172,7 @@ Students will learn:
     <td style="text-align:center;"><strong>Mar 9</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 9</span> <a href="slides/Machine_Learning_Week5_1.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
    Optimization Basics
-  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
+  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W5</span> Python 101</td>
     <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
   </tr>
   <tr>
@@ -198,7 +198,7 @@ Students will learn:
     <td style="text-align:center;"><strong>Mar 16</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 11</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
    Logistic Reg & Bayesian Linear Reg
-  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
+  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W6</span> Python 101</td>
     <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
   </tr>
   <tr>
@@ -222,7 +222,7 @@ Students will learn:
   </tr>
   <tr>
     <td style="text-align:center;"><strong>Apr 6</strong></td>
-    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 13</span> Introduction <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 13</span> Introduction <br> <span class="badge" style="background-color:#478778; color:white;">Lab W7</span> Python 101</td>
     <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
   </tr>
   <tr>
