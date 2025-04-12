@@ -67,11 +67,15 @@ Below is the course staff for the semester. Please make an Ed post before emaili
   </tr>
   <tr>
     <td style="width:120px;">
-      <img src="assets/Images/Amiri.JPG" alt="Mahdi Amiri Bostanabad" width="100" style="border-radius: 50%;">
+      <img src="assets/Images/Amiri.jpg" alt="Mahdi Amiri Bostanabad" width="100" style="border-radius: 50%;">
     </td>
     <td>
       <span style="font-size:1.2em; font-weight:500;">Mahdi Amiri Bostanabad</span><br>
       <a href="mailto:mahdi.amiri.ba@gmail.com">mahdi.amiri.ba@gmail.com</a><br>
+      <a href="https://github.com/Mahdi-Amiri-Bostanabad" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" width="16" style="vertical-align: middle; margin-right: 4px;">
+        GitHub Profile
+      </a><br>
       <strong>Role:</strong> Slides<br>
       Mahdi Amiri BostanabadMahdi Amiri BostanabadMahdi Amiri Bostanabad
     </td>
