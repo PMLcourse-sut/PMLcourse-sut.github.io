@@ -14,25 +14,13 @@ Below is the course staff for the semester. Please make an Ed post before emaili
 <table>
   <tr>
     <td style="width:120px;">
-      <img src="https://example.com/jennifer.jpg" alt="Jennifer Listgarten" width="100" style="border-radius: 50%;">
+      <img src="assets/Images/Dr.Emami.jpg" alt="Jennifer Listgarten" width="100" style="border-radius: 50%;">
     </td>
     <td>
       <strong>Jennifer Listgarten</strong><br>
       <a href="mailto:jenn@berkeley.edu">jenn@berkeley.edu</a><br>
       Professor Listgarten’s group works on machine learning and applied statistics as it relates to computational biology.
       To see more, <a href="https://example.com/jennifer-page">visit this page</a>.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://example.com/saeed.jpg" alt="Saeed Saremi" width="100" style="border-radius: 50%;">
-    </td>
-    <td>
-      <strong>Saeed Saremi</strong><br>
-      <a href="mailto:saeed@berkeley.edu">saeed@berkeley.edu</a><br>
-      Professor Saremi is a Principal Research Scientist at Genentech, where he leads a team in Frontier Research.
-      His research is on generative modeling and the problem of sampling from high-dimensional distributions.
-      To see more, <a href="https://example.com/saeed-page">visit this page</a>.
     </td>
   </tr>
 </table>
