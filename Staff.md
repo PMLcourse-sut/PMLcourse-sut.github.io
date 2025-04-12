@@ -48,11 +48,11 @@ Below is the course staff for the semester. Please make an Ed post before emaili
 <table>
   <tr>
     <td style="width:120px;">
-      <img src="assets/Images/maktubian.jpg" alt="Mohammad Maktubian" width="100" style="border-radius: 50%;">
+      <img src="assets/Images/maktubian.JPG" alt="Mohammad Maktubian" width="100" style="border-radius: 50%;">
     </td>
     <td>
       <strong>Mohammad Maktubian</strong><br>
-      <a href="mmaktubian1379@gamil.com">mmaktubian1379@gamil.com</a><br>
+      <a href="mmaktubian1379@gmail.com">mmaktubian1379@gmail.com</a><br>
       Mohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad
     </td>
   </tr>
