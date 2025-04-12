@@ -17,9 +17,9 @@ Below is the course staff for the semester. Please make an Ed post before emaili
       <img src="assets/Images/Dr.Emami.jpg" alt="Dr. Seyyed Ali Emami Khansari" width="100" style="border-radius: 50%;">
     </td>
     <td>
-      <strong>Dr. Seyyed Ali Emami Khansari</strong><br>
+      <span style="font-size:1.2em; font-weight:500;">Dr. Seyyed Ali Emami Khansari</span><br>
       <a href="mailto:emami@sharif.edu">emami@sharif.edu</a><br>
-     Dr. Seyyed Ali Emami KhansariDr. Seyyed Ali Emami KhansariDr. Seyyed Ali Emami KhansariDr. Seyyed Ali Emami Khansari.
+      Dr. Seyyed Ali Emami KhansariDr. Seyyed Ali Emami KhansariDr. Seyyed Ali Emami KhansariDr. Seyyed Ali Emami Khansari.
     </td>
   </tr>
 </table>
@@ -34,7 +34,7 @@ Below is the course staff for the semester. Please make an Ed post before emaili
       <img src="assets/Images/Mr.narimani.jpg" alt="Mohammad Narimani" width="100" style="border-radius: 50%;">
     </td>
     <td>
-      <strong>Mohammad Narimani</strong><br>
+      <span style="font-size:1.2em; font-weight:500;">Mohammad Narimani</span><br>
       <a href="mailto:narimani@sharif.edu">narimani@sharif.edu</a><br>
       Mohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad Narimani
     </td>
@@ -51,9 +51,9 @@ Below is the course staff for the semester. Please make an Ed post before emaili
       <img src="assets/Images/maktubian.JPG" alt="Mohammad Maktubian" width="100" style="border-radius: 50%;">
     </td>
     <td>
-      <strong>Mohammad Maktubian</strong><br>
+      <span style="font-size:1.2em; font-weight:500;">Mohammad Maktubian</span><br>
       <a href="mailto:mmaktubian1379@gmail.com">mmaktubian1379@gmail.com</a><br>
-      Mohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad
+      Mohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad Maktubian
     </td>
   </tr>
 </table>
