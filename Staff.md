@@ -46,6 +46,16 @@ Below is the course staff for the semester. Please make an Ed post before emaili
 ## Teaching Assistants
 
 <table>
+    <tr>
+    <td style="width:120px;">
+      <img src="assets/Images/sedaghatpey.JPG" alt="Alireza Sedaghatpey" width="100" style="border-radius: 50%;">
+    </td>
+    <td>
+      <span style="font-size:1.2em; font-weight:500;">Alireza Sedaghatpey</span><br>
+      <a href="mailto:alireza.sedaghat.ar@gmail.com">alireza.sedaghat.ar@gmail.com</a><br>
+      Mohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad Maktubian
+    </td>
+  </tr>
   <tr>
     <td style="width:120px;">
       <img src="assets/Images/maktubian.JPG" alt="Mohammad Maktubian" width="100" style="border-radius: 50%;">
