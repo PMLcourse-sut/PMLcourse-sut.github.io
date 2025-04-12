@@ -53,6 +53,7 @@ Below is the course staff for the semester. Please make an Ed post before emaili
 ## Teaching Assistants
 
 <table>
+
   <tr>
     <td style="width:120px;">
       <img src="assets/Images/sedaghatpey.JPG" alt="Alireza Sedaghatpey" width="100" style="border-radius: 50%;">
@@ -62,6 +63,17 @@ Below is the course staff for the semester. Please make an Ed post before emaili
       <a href="mailto:alireza.sedaghat.ar@gmail.com">alireza.sedaghat.ar@gmail.com</a><br>
       <strong>Role:</strong> Home Works<br>
       Alireza SedaghatpeyAlireza SedaghatpeyAlireza SedaghatpeyAlireza SedaghatpeyAlireza SedaghatpeyAlireza Sedaghatpey
+    </td>
+  </tr>
+  <tr>
+    <td style="width:120px;">
+      <img src="assets/Images/Amiri.JPG" alt="Mahdi Amiri Bostanabad" width="100" style="border-radius: 50%;">
+    </td>
+    <td>
+      <span style="font-size:1.2em; font-weight:500;">Mahdi Amiri Bostanabad</span><br>
+      <a href="mailto:mahdi.amiri.ba@gmail.com">mahdi.amiri.ba@gmail.com</a><br>
+      <strong>Role:</strong> Slides<br>
+      Mahdi Amiri BostanabadMahdi Amiri BostanabadMahdi Amiri Bostanabad
     </td>
   </tr>
   <tr>
