@@ -3,7 +3,7 @@ title: Resources
 nav_order: 4
 ---
 
-## Notes
+## 📝 Notes
 
 Below are lecture notes from Anant Sahai’s iteration of the course:
 
