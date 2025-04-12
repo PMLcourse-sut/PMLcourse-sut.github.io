@@ -18,7 +18,7 @@ Below is the course staff for the semester. Please make an Ed post before emaili
     </td>
     <td>
       <strong>Dr. Seyyed Ali Emami Khansari</strong><br>
-      <a href="emami@sharif.edu">emami@sharif.edu</a><br>
+      <a href="mailto:emami@sharif.edu">emami@sharif.edu</a><br>
      Dr. Seyyed Ali Emami KhansariDr. Seyyed Ali Emami KhansariDr. Seyyed Ali Emami KhansariDr. Seyyed Ali Emami Khansari.
     </td>
   </tr>
@@ -35,7 +35,7 @@ Below is the course staff for the semester. Please make an Ed post before emaili
     </td>
     <td>
       <strong>Mohammad Narimani</strong><br>
-      <a href="narimani@sharif.edu">narimani@sharif.edu</a><br>
+      <a href="mailto:narimani@sharif.edu">narimani@sharif.edu</a><br>
       Mohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad Narimani
     </td>
   </tr>
@@ -52,7 +52,7 @@ Below is the course staff for the semester. Please make an Ed post before emaili
     </td>
     <td>
       <strong>Mohammad Maktubian</strong><br>
-      <a href="mmaktubian1379@gmail.com">mmaktubian1379@gmail.com</a><br>
+      <a href="mailto:mmaktubian1379@gmail.com">mmaktubian1379@gmail.com</a><br>
       Mohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad
     </td>
   </tr>
