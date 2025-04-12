@@ -19,7 +19,7 @@ Below is the course staff for the semester. Please make an Ed post before emaili
     <td>
       <span style="font-size:1.2em; font-weight:500;">Dr. Seyyed Ali Emami Khansari</span><br>
       <a href="mailto:emami@sharif.edu">emami@sharif.edu</a><br>
-      Dr. Seyyed Ali Emami KhansariDr. Seyyed Ali Emami KhansariDr. Seyyed Ali Emami KhansariDr. Seyyed Ali Emami Khansari.
+      Assistant Professor of Aerospace Engineering
     </td>
   </tr>
 </table>
@@ -42,7 +42,7 @@ Below is the course staff for the semester. Please make an Ed post before emaili
         GitHub Profile
       </a><br>
       <strong>Role:</strong> Course Management and Lab Sessions<br>
-      Mohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad 
+      MSc Graduate of Flight Dynamics & Control 
     </td>
   </tr>
 </table>
