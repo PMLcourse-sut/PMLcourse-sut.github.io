@@ -3,6 +3,22 @@ title: Resources
 nav_order: 4
 ---
 
+## Notes
+
+Below are lecture notes from Anant Sahai’s iteration of the course:
+
+- [Note 1](slides/Machine_Learning_Week_1.pdf) – Introduction and Course Overview - Linear Regression
+- [Note 2](slides/Machine_Learning_week2.pdf) – Linear Regression Contd(1)
+- [Note 3](slides/Machine_Learning_week3_1.pdf) – Linear Regression Contd(2)  
+- [Note 4](slides/Machine_Learning_Week3_2.pdf) – Eigenvalues & Eigenvectors 
+- [Note 5](slides/Machine_Learning_Week4_1.pdf) – Probability and Distributions 
+- [Note 6](slides/Machine_Learning_Week4_2.pdf) – Calculus Concepts and Optimization Basics  
+- [Note 7](slides/Machine_Learning_Week5_1.pdf) – Optimization  
+- [Note 8](slides/Machine_Learning_Week5_2.pdf) – Linear Regression  
+- [Note 9](slides/Machine_Learning_Week6.pdf) – Logistic Reg & Bayesian Linear Reg  
+
+
+
 ## 📚 References
 
 1. **G. James, D. Witten, T. Hastie, R. Tibshirani, J. Taylor** (2023)  
