@@ -28,6 +28,8 @@ Below is the course staff for the semester. Please make an Ed post before emaili
 
 ## Head Teaching Assistant
 
+## Head Teaching Assistant
+
 <table>
   <tr>
     <td style="width:120px;">
@@ -36,10 +38,15 @@ Below is the course staff for the semester. Please make an Ed post before emaili
     <td>
       <span style="font-size:1.2em; font-weight:500;">Mohammad Narimani</span><br>
       <a href="mailto:narimani@sharif.edu">narimani@sharif.edu</a><br>
+      <a href="https://github.com/YourGitHubUsername" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" width="16" style="vertical-align: middle; margin-right: 4px;">
+        GitHub Profile
+      </a><br>
       Mohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad NarimaniMohammad Narimani
     </td>
   </tr>
 </table>
+
 
 ---
 
