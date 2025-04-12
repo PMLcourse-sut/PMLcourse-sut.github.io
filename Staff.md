@@ -71,7 +71,7 @@ Below is the course staff for the semester. Please make an Ed post before emaili
     <td>
       <span style="font-size:1.2em; font-weight:500;">Mohammad Maktubian</span><br>
       <a href="mailto:mmaktubian1379@gmail.com">mmaktubian1379@gmail.com</a><br>
-      <strong>Role:</strong>Course Home Page<br>
+      <strong>Role:</strong> Course Home Page<br>
       Mohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad Maktubian
     </td>
   </tr>
