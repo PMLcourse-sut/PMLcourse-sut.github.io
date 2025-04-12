@@ -53,7 +53,7 @@ Below is the course staff for the semester. Please make an Ed post before emaili
     <td>
       <span style="font-size:1.2em; font-weight:500;">Alireza Sedaghatpey</span><br>
       <a href="mailto:alireza.sedaghat.ar@gmail.com">alireza.sedaghat.ar@gmail.com</a><br>
-      <strong>Role:</strong> Assignment Coordinator<br>
+      <strong>Role:</strong> Home Works<br>
       Alireza SedaghatpeyAlireza SedaghatpeyAlireza SedaghatpeyAlireza SedaghatpeyAlireza SedaghatpeyAlireza Sedaghatpey
     </td>
   </tr>
@@ -64,7 +64,7 @@ Below is the course staff for the semester. Please make an Ed post before emaili
     <td>
       <span style="font-size:1.2em; font-weight:500;">Mohammad Maktubian</span><br>
       <a href="mailto:mmaktubian1379@gmail.com">mmaktubian1379@gmail.com</a><br>
-      <strong>Role:</strong> Lab Session Support<br>
+      <strong>Role:</strong>Course Home Page<br>
       Mohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad MaktubianMohammad Maktubian
     </td>
   </tr>
