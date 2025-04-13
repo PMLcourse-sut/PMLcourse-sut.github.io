@@ -80,7 +80,7 @@ Below is the course staff for the semester. Please make an Ed post before emaili
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" width="16" style="vertical-align: middle; margin-right: 4px;">
         GitHub Profile
       </a><br>
-      <strong>Role:</strong> Slides<br>
+      <strong>Role:</strong> Slides and Homeworks<br>
       Mahdi Amiri BostanabadMahdi Amiri BostanabadMahdi Amiri Bostanabad
     </td>
   </tr>
