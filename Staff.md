@@ -101,7 +101,7 @@ Below is the course staff for the semester. Please make an Ed post before emaili
   </tr>
   <tr>
     <td style="width:120px;">
-      <img src="assets/Images/moini.jpg" alt="Kourosh Moeini" width="100" style="border-radius: 50%;">
+      <img src="assets/Images/moeini.jpg" alt="Kourosh Moeini" width="100" style="border-radius: 50%;">
     </td>
     <td>
       <span style="font-size:1.2em; font-weight:500;">Kourosh Moeini</span><br>
