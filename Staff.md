@@ -101,6 +101,16 @@ Below is the course staff for the semester. Please make an Ed post before emaili
   </tr>
   <tr>
     <td style="width:120px;">
+      <img src="assets/Images/moini.jpg" alt="Kourosh Moeini" width="100" style="border-radius: 50%;">
+    </td>
+    <td>
+      <span style="font-size:1.2em; font-weight:500;">Kourosh Moeini</span><br>
+      <a href="mailto:kourosh.moeini.sut@gmail.com">kourosh.moeini.sut@gmail.com</a><br>
+      <strong>Role:</strong> Slides and Homeworks<br>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:120px;">
       <img src="assets/Images/maktubian.JPG" alt="Mohammad Maktubian" width="100" style="border-radius: 50%;">
     </td>
     <td>
