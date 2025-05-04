@@ -256,3 +256,219 @@ Students will learn:
 </table>
 
 ---
+
+### Week 8
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Apr 20</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 15</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+   Data Preparation
+  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W8</span> Decision Trees & Random Forests<br>
+      <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> <a href="PP&CS/Perceptron.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    LSTM
+  </a>
+    </td>
+    <td><span class="badge">READING</span><br> Hands-on (pp 67 - 97)</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Apr 22</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 16</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+   Data Preparation (Contd)
+  </a></td>
+    <td><span class="badge">READING</span><br> </td>
+  </tr>
+</table>
+
+---
+
+### Week 9
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Apr 27</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 17</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+   Clustering and Mixture models
+  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W9</span><br> Getting Started with TensorFlow: CNN, LSTM<br>
+      <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> <a href="PP&CS/Perceptron.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    CNN
+  </a>
+    </td>
+    <td><span class="badge">READING</span><br> Deep Learning, Bishop, 2024<br> Chapter 15 (all sections)<br> Hands on, Chapter 9<br> James, Section 12.4</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Apr 29</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 18</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+   Clustering and Mixture models (Contd)
+  </a></td>
+    <td><span class="badge">READING</span><br> </td>
+  </tr>
+</table>
+
+---
+
+### Week 10
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>May 4</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 19</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+   Dimensionality Reduciton
+  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W10</span> Clustering<br>
+      <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> <a href="PP&CS/Perceptron.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    AlexNet
+  </a>
+    </td>
+    <td><span class="badge">READING</span><br> Deep Learning, Bishop, 2024<br> Chapter 16 (all sections)<br> Muphy, 2021, Section 20.5<br> Hands on, Chapter 8</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>May 6</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 20</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+   Dimonsionality Reduction (Contd)
+  </a></td>
+    <td><span class="badge">READING</span><br> </td>
+  </tr>
+</table>
+
+---
+
+### Week 11
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>May 11</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 21</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+   
+  </a><br>
+      <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> <a href="PP&CS/Perceptron.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    Deep Learning
+  </a>
+    </td>
+    <td><span class="badge">READING</span><br> lan Goodfellow and Yoshua<br> Bengio and Aron Courville<br> Deep Learning, 2016<br> Ch6, Ch7<br> (exept for 7.1,7.2,7.3 and 7.11)</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>May 13</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 22</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+  
+  </a></td>
+    <td><span class="badge">READING</span><br> Ian Goodfellow and Yoshua<br> Bengio and Aaron Courville,<br> Deep Learning, 2016, Ch8
+</td>
+  </tr>
+</table>
+
+---
+
+
+### Week 12
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>May 18</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 23</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+   CNN
+  </a><br>
+      <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> <a href="PP&CS/Perceptron.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    Attention
+  </a>
+    </td>
+    <td><span class="badge">READING</span><br> Bishop, Deep learning, 2024, Chapter 10 <br> (all sections),<br> Hands on, Chapter 14.
+</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>May 20</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 24</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+  LSTM
+  </a></td>
+    <td><span class="badge">READING</span><br> Ian Goodfellow and Yoshua<br> Bengio and Aaron Courville,<br> Deep Learning, 2016, chapter 10,<br> all sectionsHands On, Chapter 15</td>
+  </tr>
+</table>
+
+---
+
+
+### Week 13
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>May 25</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 25</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+   Transformers
+  </a><br>
+      <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> <a href="PP&CS/Perceptron.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    Atari DQN
+  </a>
+    </td>
+    <td><span class="badge">READING</span><br> Bishop, Deep learning, 2024,<br> Chapter 12 (all sections)
+</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>May 27</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 26</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+  Representation learning
+  </a></td>
+    <td><span class="badge">READING</span><br> Ian Goodfellow and Yoshua<br> Bengio and Aaron Courville,<br> Deep Learning, 2016, <br>chapter 15, all sections</td>
+  </tr>
+</table>
+
+---
+
+### Week 14
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Session Info</th>
+    <th>Reading</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Jun 1</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 27</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+   Sequential data
+  </a>
+    </td>
+    <td><span class="badge">READING</span><br> Bishop, Pattern Recognition and ML, 2006,<br> Ch. 13 (Sequential data)
+</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><strong>Jun 3</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 28</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+  
+  </a></td>
+    <td><span class="badge">READING</span><br> Bishop, Deep Learning, 2024,<br> 
+chapter 17, 19, 20, all sections<br>
+Hands on, ch 17
+</td>
+  </tr>
+</table>
+
+---
