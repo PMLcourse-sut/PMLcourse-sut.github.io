@@ -49,16 +49,16 @@ Students will learn:
   <tr>
     <td style="text-align:center;"><strong>Feb 9</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 1</span> <a href="slides/Machine_Learning_Week_1.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
-    Introduction and Course Overview
+    Course Overview
   </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W1</span> Python 101</td>
-    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+    <td><span class="badge">READING</span><br> Mathematics for ML Ch2</td>
   </tr>
   <tr>
     <td style="text-align:center;"><strong>Feb 11</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 2</span> <a href="slides/Machine_Learning_Week_1.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
-     Linear Algebra
+     Linear Algebra Overview
   </a></td>
-    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+    <td><span class="badge">READING</span><br> Mathematics for ML Ch3</td>
   </tr>
 </table>
 
@@ -76,22 +76,22 @@ Students will learn:
     <td style="text-align:center;"><strong>Feb 16</strong></td>
     <td>
       <span class="badge" style="background-color:#E5E4E2; color:black;">Session 3</span> <a href="slides/Machine_Learning_week2.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
-    Linear Algebra Contd.(1)
+    Linear Algebra Review
   </a> <br>
       <span class="badge" style="background-color:#478778; color:white;">Lab W2</span> Linear Algebra <br>
       <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> <a href="PP&CS/Perceptron.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
     Perceptron
   </a> <br>
       <span class="badge" style="background-color:#cef2ac; color:black;">CaseStudy</span> Robot Path Planning
-    </td>
+  </td>
 <td>
   <span class="badge">READING</span><br>
-  K. Murphy Ch.1 <br>
+  Mathematics for ML Ch4 <br>
 
   <span class="badge" style="background-color:gold; color:black;">
     HOMEWORK
   </span>
-    <a href="HW/HW1.rar" style="color:#007bff; text-decoration:none;" target="_blank">HW#1</a>
+    <a href="HW/HW1.rar" style="color:#007bfft; text-decoration:none;" target="_blank">HW#1</a>
   &dash;
   <a href="HW/Machine_Learning_HW1_solutions.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
     Solutions
@@ -99,7 +99,7 @@ Students will learn:
 
   <span class="badge" style="background-color:#dc3545;">WORKSHEET</span>
   <a href="SP/Machine_Learning_SP1.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
-    Solved Example
+    Solved Examples
   </a>
 </td>
 
@@ -109,7 +109,7 @@ Students will learn:
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 4</span> <a href="slides/Machine_Learning_week2.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
     Linear Algebra Contd.(1)
   </a></td>
-    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+    <td><span class="badge">READING</span><br> Mathematics for ML Ch6</td>
   </tr>
 </table>
 
@@ -125,15 +125,18 @@ Students will learn:
     <td style="text-align:center;"><strong>Feb 23</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 5</span> <a href="slides/Machine_Learning_week3_1.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
     Linear Algebra Contd.(2)
-  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W3</span> Python 101</td>
-    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W3</span> SVD, PCA<br>
+  <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> <a href="PP&CS/Perceptron.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    Perceptron
+  </a> </td>
+    <td><span class="badge">READING</span><br> Mathematics for ML Ch5</td>
   </tr>
   <tr>
     <td style="text-align:center;"><strong>Feb 25</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 6</span> <a href="slides/Machine_Learning_Week3_2.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
     Eigenvalues & Eigenvectors
   </a></td>
-    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+    <td><span class="badge">READING</span><br> Mathematics for ML Ch7</td>
   </tr>
 </table>
 
@@ -151,11 +154,15 @@ Students will learn:
     <td style="text-align:center;"><strong>Mar 2</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 7</span> <a href="slides/Machine_Learning_Week4_1.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
    Probability and Distributions
-  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W4</span> Python 101</td>
-    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W4</span> Probability Optimization<br>
+    <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> <a href="PP&CS/Perceptron.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    MLP and Backprop
+  </a>
+    </td>
+    <td><span class="badge">READING</span><br> K. Murphy Ch11.1, 11.2 11.3 11.5 Math for ML: sections 9,9.1,9.2 and 9.4</td>
   </tr>
   <tr>
-    <td style="text-align:center;"><strong>Mar 4</strong></td>
+    <td style="text-align:center;"><strong>Mar 9</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 8</span><a href="slides/Machine_Learning_Week4_2.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
     Calculus Concepts
   </a></td>
@@ -174,18 +181,22 @@ Students will learn:
     <th>Reading</th>
   </tr>
   <tr>
-    <td style="text-align:center;"><strong>Mar 9</strong></td>
+    <td style="text-align:center;"><strong>Mar 11</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 9</span> <a href="slides/Machine_Learning_Week5_1.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
    Optimization Basics
-  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W5</span> Python 101</td>
-    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W5</span> Supervised Learning - Regression<br>
+      <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> <a href="PP&CS/Perceptron.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    A Few Useful Things TO Know About ML
+  </a>
+    </td>
+    <td><span class="badge">READING</span><br> Deisenroth, Chapter 9.3 and James, Chapter 11.6</td>
   </tr>
   <tr>
-    <td style="text-align:center;"><strong>Mar 11</strong></td>
+    <td style="text-align:center;"><strong>Mar 16</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 10</span> <a href="slides/Machine_Learning_Week5_2.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
     Linear Regression
   </a></td>
-    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+    <td><span class="badge">READING</span><br> James, Chapter 4</td>
   </tr>
 </table>
 
@@ -200,18 +211,22 @@ Students will learn:
     <th>Reading</th>
   </tr>
   <tr>
-    <td style="text-align:center;"><strong>Mar 16</strong></td>
+    <td style="text-align:center;"><strong>Apr 6</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 11</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
    Logistic Reg & Bayesian Linear Reg
-  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W6</span> Python 101</td>
-    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+  </a> <br> <span class="badge" style="background-color:#478778; color:white;">Lab W6</span> Bayaseian Linear Regression, Logistic Regression<br>
+      <span class="badge" style="background-color:#5D3FD3; color:white;">PaperPres</span> <a href="PP&CS/Perceptron.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
+    SVM
+  </a>
+    </td>
+    <td><span class="badge">READING</span><br> Deisenroth, Chapter 12 and James, Chapter 9</td>
   </tr>
   <tr>
-    <td style="text-align:center;"><strong>Mar 18</strong></td>
+    <td style="text-align:center;"><strong>Apr 8</strong></td>
     <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 12</span> <a href="slides/Machine_Learning_Week6.pdf" style="color:#007bfft; text-decoration:none;" target="_blank">
    Logistic Reg & Bayesian Linear Reg
   </a></td>
-    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+    <td><span class="badge">READING</span><br> James, Chapter 8</td>
   </tr>
 </table>
 
@@ -226,14 +241,17 @@ Students will learn:
     <th>Reading</th>
   </tr>
   <tr>
-    <td style="text-align:center;"><strong>Apr 6</strong></td>
-    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 13</span> Introduction <br> <span class="badge" style="background-color:#478778; color:white;">Lab W7</span> Python 101</td>
-    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+    <td style="text-align:center;"><strong>Apr 13</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 13</span> Model Evaluation and Testing Criteria <br>
+      <span class="badge" style="background-color:#478778; color:white;">Lab W7</span> W7 SVM, LDA, QDA<br>
+     <span class="badge" style="background-color:#cef2ac; color:black;">CaseStudy</span> Fault Detection using SVM
+    </td>
+    <td><span class="badge">READING</span><br> Hands-on Ch3<br> James Ch5</td>
   </tr>
   <tr>
-    <td style="text-align:center;"><strong>Apr 8</strong></td>
-    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 14</span> Linear Algebra</td>
-    <td><span class="badge">READING</span><br> K. Murphy Ch.1</td>
+    <td style="text-align:center;"><strong>Apr 15</strong></td>
+    <td><span class="badge" style="background-color:#E5E4E2; color:black;">Session 14</span> Model Evaluation and Testing Criteria (Contd)</td>
+    <td><span class="badge">READING</span><br> </td>
   </tr>
 </table>
 
